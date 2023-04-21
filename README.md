@@ -5,7 +5,8 @@
 
 This project aims to analyze the data from a WhatsApp group and gain insights into the patterns and trends of the group's communication. The project uses Python and various libraries for data cleaning, analysis, and visualization.
 
-** Table of Contents
+* Table of Contents:
+
 ** Installation
 ** Data Cleaning
 ** Exploratory Data Analysis
